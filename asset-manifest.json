@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/openquiz.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/openquiz.github.io/static/js/main.431fb215.chunk.js",
-    "main.js.map": "/openquiz.github.io/static/js/main.431fb215.chunk.js.map",
-    "runtime-main.js": "/openquiz.github.io/static/js/runtime-main.e7baddad.js",
-    "runtime-main.js.map": "/openquiz.github.io/static/js/runtime-main.e7baddad.js.map",
-    "static/js/2.f9a038ab.chunk.js": "/openquiz.github.io/static/js/2.f9a038ab.chunk.js",
-    "static/js/2.f9a038ab.chunk.js.map": "/openquiz.github.io/static/js/2.f9a038ab.chunk.js.map",
-    "index.html": "/openquiz.github.io/index.html",
-    "precache-manifest.88bb37a9b0ee5737a64e8deab8101b44.js": "/openquiz.github.io/precache-manifest.88bb37a9b0ee5737a64e8deab8101b44.js",
-    "service-worker.js": "/openquiz.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/openquiz.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f9a038ab.chunk.js.LICENSE.txt": "/openquiz.github.io/static/js/2.f9a038ab.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/openquiz.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/openquiz/static/css/main.8b8b0893.chunk.css",
+    "main.js": "/openquiz/static/js/main.9346f206.chunk.js",
+    "main.js.map": "/openquiz/static/js/main.9346f206.chunk.js.map",
+    "runtime-main.js": "/openquiz/static/js/runtime-main.b283e15f.js",
+    "runtime-main.js.map": "/openquiz/static/js/runtime-main.b283e15f.js.map",
+    "static/css/2.c27a359e.chunk.css": "/openquiz/static/css/2.c27a359e.chunk.css",
+    "static/js/2.ca0a7781.chunk.js": "/openquiz/static/js/2.ca0a7781.chunk.js",
+    "static/js/2.ca0a7781.chunk.js.map": "/openquiz/static/js/2.ca0a7781.chunk.js.map",
+    "index.html": "/openquiz/index.html",
+    "precache-manifest.05595d3b6335a3cf52c07798d03763bd.js": "/openquiz/precache-manifest.05595d3b6335a3cf52c07798d03763bd.js",
+    "service-worker.js": "/openquiz/service-worker.js",
+    "static/css/2.c27a359e.chunk.css.map": "/openquiz/static/css/2.c27a359e.chunk.css.map",
+    "static/css/main.8b8b0893.chunk.css.map": "/openquiz/static/css/main.8b8b0893.chunk.css.map",
+    "static/js/2.ca0a7781.chunk.js.LICENSE.txt": "/openquiz/static/js/2.ca0a7781.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7baddad.js",
-    "static/js/2.f9a038ab.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.431fb215.chunk.js"
+    "static/js/runtime-main.b283e15f.js",
+    "static/css/2.c27a359e.chunk.css",
+    "static/js/2.ca0a7781.chunk.js",
+    "static/css/main.8b8b0893.chunk.css",
+    "static/js/main.9346f206.chunk.js"
   ]
 }
